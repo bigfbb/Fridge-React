@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(240, 231, 231);
+    height: 100vh;
+    width: 100vw;
+}
+
+#cardsDiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+#cardDiv{
+    flex-direction: column;
+    text-align: center;  
+    margin: 5px;  
+}

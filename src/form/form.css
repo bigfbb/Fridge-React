@@ -1,0 +1,26 @@
+#formDiv{
+    background-color: rgba(214, 189, 239, 0.365);
+    width: 50vw;
+    height: fit-content;
+    stroke: black 12px;
+    margin: 10px auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+input {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  button{
+    background-color: rgba(250, 128, 114, 0.324);
+    border-radius: 10px;
+    width: auto;
+  }
+

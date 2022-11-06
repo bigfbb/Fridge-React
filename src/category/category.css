@@ -1,0 +1,10 @@
+#categoryDiv{
+    stroke: 2px black;
+    background-color: rgba(56, 150, 92, 0.071);
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    margin: auto 50%;
+    border: 1px salmon dotted;
+}
